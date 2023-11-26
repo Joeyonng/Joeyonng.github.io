@@ -1,1 +1,1 @@
-Please go to https://github.com/Joeyonng/joeyonng-backyard for details.
+All traffics will be redirected to the website specified in index.html.
